@@ -1,5 +1,5 @@
 {
-  "name": "awg/sf-phpunit-plugin",
+  "name": "symfony/sf-phpunit-plugin",
   "description": "symfony 1.x plugin that integrates PHPUnit library",
 
   "type": "symfony1-plugin",
